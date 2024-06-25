@@ -32,6 +32,7 @@
 * <img src="https://github.com/rsdler/Remote-Sensing-Change-Detection-Dataset/assets/169664279/db07e375-20d8-4d11-93b3-406034edde35" style="width:40%;">
 
 * Paper: https://www.sciencedirect.com/science/article/pii/S0924271620301532
+* Download: https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset
 
 
 ### 5. CLCD
@@ -39,3 +40,4 @@
 * <img src="https://github.com/rsdler/Remote-Sensing-Change-Detection-Dataset/assets/169664279/1cd90308-7fc6-4473-aadc-9f6ea0c6eb04" style="width:40%;">
 
 * Paper: https://ieeexplore.ieee.org/document/9780164
+* Download: https://github.com/liumency/CropLand-CD
