@@ -41,3 +41,23 @@
 * Download: https://github.com/liumency/CropLand-CD
 * Paper: https://ieeexplore.ieee.org/document/9780164
 
+### 6. S2Looking
+
+* <img src="https://github.com/rsdler/Remote-Sensing-Change-Detection-Dataset/assets/169664279/1cd90308-7fc6-4473-aadc-9f6ea0c6eb04" style="width:40%;">
+* Download: https://github.com/S2Looking/Dataset
+* Paper: https://arxiv.org/abs/2107.09244
+
+
+### 7. xView2
+
+* <img src="https://github.com/user-attachments/assets/e529fb97-91b4-4745-afe9-6702b9d2d146" style="width:40%;">
+* Download: https://github.com/michal2409/xView2
+* Page: https://xview2.org/
+
+### 8. SECOND
+
+* <img src="https://github.com/user-attachments/assets/308fc736-f74d-4f89-be12-5c2af91be301" style="width:40%;">
+* Download: https://drive.google.com/file/d/1mN8jzCKKK27p3ODGoDgepjiRYGQpB34u/view
+* Page: https://captain-whu.github.io/SCD/
+* Page: https://paperswithcode.com/dataset/second
+  
