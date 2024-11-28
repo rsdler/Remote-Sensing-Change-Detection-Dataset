@@ -66,4 +66,8 @@
 * Download: https://github.com/michal2409/xView2
 * Page: https://xview2.org/
 
+### 10. HRCUS-CD
 
+* <img src="https://github.com/user-attachments/assets/831cc308-1fbc-4e8f-9cbd-812024dbc515" style="width:40%;">
+* Download: https://pan.baidu.com/share/init?surl=UME_38pWJr8GN59MTC42NA  password:msu2
+* Paper: https://ieeexplore.ieee.org/document/10209204
